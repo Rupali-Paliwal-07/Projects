@@ -1,0 +1,5 @@
+I built a Book Recommendation System that suggests similar books based on genres and content. The system uses Python, Pandas, and scikit-learn to process book data and applies cosine similarity to measure how closely books are related.
+
+The model takes a book title as input and recommends the top similar books, making it useful for readers who want personalized suggestions. I also implemented preprocessing with CountVectorizer to transform textual data into numerical features for similarity computation.
+
+The system runs smoothly on sample datasets and demonstrates a practical application of machine learning, feature extraction, and recommendation algorithms.

@@ -1,3 +1,4 @@
+#Startup project
 # AI-Powered Interior Design Recommendation System
 
 An AI startup project that generates optimized room layouts by combining **machine learning** and **recommendation systems**.  
